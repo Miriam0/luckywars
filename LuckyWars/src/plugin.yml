@@ -1,0 +1,6 @@
+name: LuckyWars
+main: custom.luckywars.Source
+author: Miriam0
+description: Custom plugin
+version: 1.0
+api-version: 1.13
